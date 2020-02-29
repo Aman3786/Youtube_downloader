@@ -1,0 +1,5 @@
+This program help us to download the youtube video just by its link.
+The video streams are in three format:
+1. vcodec and acodec(both audio and video)
+2. only vcodec(only video)
+3. only acodec(only audio)
