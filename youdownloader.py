@@ -1,4 +1,4 @@
-# Note: you should have both module pytube and pytube3 installed in your pc.
+# Note: you should have both the version of a module pytube and pytube3 installed in your pc.
 
 from pytube import YouTube
 
